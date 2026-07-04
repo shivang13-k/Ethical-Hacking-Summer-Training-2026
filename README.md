@@ -23,3 +23,11 @@ Hands-on practical work performed during the training, including:
 
 Footprinting and Reconnaissance (passive & active information gathering using OSINT and tools like Nmap)
 Vulnerability Analysis (scanning using OpenVAS and Nikto)
+
+3. Presentation
+
+File: 3. Ethical Hacking Presentation (Shivang 2419620).pptx
+
+A practical presentation covering:
+SMB Enumeration
+Post-Exploitation via Reverse TCP Payload
